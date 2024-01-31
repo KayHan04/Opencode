@@ -3,4 +3,4 @@ Test_task:Провести тестирование программы, выво
 Написать тестовую документация для данного приложения.
 Локализовать и описать найденные баги.
 
-Ссылка на тест план: https://drive.google.com/file/d/14f2AueQN__hcMt15gL5Pr6YH0ypkJ2H5/view?usp=sharing
+https://drive.google.com/file/d/14f2AueQN__hcMt15gL5Pr6YH0ypkJ2H5/view?usp=sharing
